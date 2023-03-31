@@ -1,0 +1,24 @@
+The First company that I did reaserch on is lightStep
+They have a large tech stack including
+-JavaScript     -Django         -D3.JS      -HAproxy
+-Python         -Flask          -GitHub     -chef
+-node.JS        -Golang         -docker     -lightStep
+-react          -objectice-c    -gradle
+-java           -Scala          -travis CI
+-C#             -Cassandra      -CirleCi
+
+
+The scound company researched is Rad power bike they use a smaller stack
+-jQuery
+-NGINX
+-CloudFlare
+-Fancybox
+-google tag manager
+-shopify
+
+
+The last company I researched was steam the info i found was limitied but had what it was for
+-Akamai's Ghost service or Global Host service for downloads
+-The storefront and community section use PHP as a backend language, with an SQL database
+-The client uses C++ and Webkit for the built-in browser
+-The front end of the web experience uses HTML, CSS, JS, and Flash player
